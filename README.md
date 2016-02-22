@@ -1,2 +1,4 @@
 # vim
-vimrc
+vimrci
+
+00000000000000
